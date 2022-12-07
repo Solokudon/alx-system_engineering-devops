@@ -1,2 +1,2 @@
-#!/bin/basih
+#!/bin/bash
 paste - - | cut -f1
